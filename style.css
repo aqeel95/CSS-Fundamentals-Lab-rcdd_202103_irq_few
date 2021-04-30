@@ -23,7 +23,9 @@ nav a{
 text-align: center;
 }
 #featured-property p{
-padding-left: 300px;
+  
+/*padding-left: 300px;*/
+margin: 0 auto;
  width: 800px;
 
 }
